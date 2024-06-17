@@ -1,0 +1,16 @@
+D:\uni\sem4\NET\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe
+D:\uni\sem4\NET\CuoiKy\CuoiKy\bin\Debug\EntityFramework.dll
+D:\uni\sem4\NET\CuoiKy\CuoiKy\bin\Debug\EntityFramework.SqlServer.dll
+D:\uni\sem4\NET\CuoiKy\CuoiKy\bin\Debug\CuoiKy.exe.config
+D:\uni\sem4\NET\CuoiKy\CuoiKy\bin\Debug\EntityFramework.xml
+D:\uni\sem4\NET\CuoiKy\CuoiKy\bin\Debug\EntityFramework.SqlServer.xml
+D:\uni\sem4\NET\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.AssemblyReference.cache
+D:\uni\sem4\NET\CuoiKy\CuoiKy\obj\Debug\CuoiKy.UI.DetailForm.resources
+D:\uni\sem4\NET\CuoiKy\CuoiKy\obj\Debug\CuoiKy.MainForm.resources
+D:\uni\sem4\NET\CuoiKy\CuoiKy\obj\Debug\CuoiKy.Properties.Resources.resources
+D:\uni\sem4\NET\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.GenerateResource.cache
+D:\uni\sem4\NET\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CoreCompileInputs.cache
+D:\uni\sem4\NET\CuoiKy\CuoiKy\obj\Debug\CuoiKy.csproj.CopyComplete
+D:\uni\sem4\NET\CuoiKy\CuoiKy\obj\Debug\CuoiKy.exe
+D:\uni\sem4\NET\CuoiKy\CuoiKy\obj\Debug\CuoiKy.pdb
+D:\uni\sem4\NET\CuoiKy\CuoiKy\bin\Debug\CuoiKy.pdb
